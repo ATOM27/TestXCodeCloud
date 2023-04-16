@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import Customertimes_XCodeCloud_1
+@testable import CustomertimesXCodeCloud1
 
 final class TestXcodeCloudTests: XCTestCase {
 
